@@ -1,13 +1,13 @@
 # python-
 PyBank
 Create a Python script that analyzes the records to calculate each of the following values:
-The total number of months included in the dataset
-The net total amount of "Profit/Losses" over the entire period
-The changes in "Profit/Losses" over the entire period, and then the average of those changes
-The greatest increase in profits (date and amount) over the entire period
-The greatest decrease in profits (date and amount) over the entire period
-    input the resources file ""budget_data.csv"
-    output into the file "budget_analysis.txt"
+The total number of months included in the dataset.
+The net total amount of "Profit/Losses" over the entire period.
+The changes in "Profit/Losses" over the entire period, and then the average of those changes.
+The greatest increase in profits (date and amount) over the entire period.
+The greatest decrease in profits (date and amount) over the entire period.
+    input the resources file ""budget_data.csv".
+    output into the file "budget_analysis.txt".
     read the input file, skip the header, and run the for loop to calculate the outputs.
     The output will be printed with the format:
         "Financial Analysis"
@@ -20,13 +20,13 @@ The greatest decrease in profits (date and amount) over the entire period
 
 PyPoll
 Create a Python script that analyzes the votes and calculates each of the following values:
-The total number of votes cast
-A complete list of candidates who received votes
-The percentage of votes each candidate won
-The total number of votes each candidate won
-The winner of the election based on popular vote
-    input the resources file "election_data.csv"
-    output into the file "election_analysis.txt"
+The total number of votes cast.
+A complete list of candidates who received votes.
+The percentage of votes each candidate won.
+The total number of votes each candidate won.
+The winner of the election based on popular vote.
+    input the resources file "election_data.csv".
+    output into the file "election_analysis.txt".
     read the input file, skip the header, and run the for loop to find the outputs.
     The output will be printed with the format:
     "Election Results"
